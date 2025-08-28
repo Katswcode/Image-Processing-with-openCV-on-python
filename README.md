@@ -1,1 +1,1 @@
-I have more files that involves Image processing and OpenCV, but I haven't upload it yet, if you are interested let me know and I will show those to you or upload them here. Soon as I will be free I will put them.
+This are some image processing little projects that I have, although I have made more things I couldn't find the files, anyways I will be updating more info here.
